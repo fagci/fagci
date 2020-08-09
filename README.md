@@ -1,6 +1,6 @@
 # Hi!
 
-I am Mikhail Yudin, frontend web developer.  
+I am Mikhail Yudin, frontend web developer, Arch Linux and VIM user.  
 ![](https://img.shields.io/date/1375315200?label=My%20web%20dev%20career%20starts)
 
 
