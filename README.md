@@ -4,7 +4,7 @@ I am Mikhail Yudin, frontend web developer.
 ![](https://img.shields.io/date/1375315200?label=My%20web%20dev%20career%20starts)
 
 
-As web developer I interested in JAM stack, high performance web applications and vue.js projects.
+As web developer I interested in JAM stack, high performance web applications and vue.js projects.  
 Also, very like UX designing.
 
 My personal site: [mikhail-yudin.ru](https://mikhail-yudin.ru).
