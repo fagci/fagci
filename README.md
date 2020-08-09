@@ -9,6 +9,8 @@ Also, very like UX designing.
 
 My personal site: [mikhail-yudin.ru](https://mikhail-yudin.ru).
 
+My dotfiles: [fagcinsk/dotfiles](https://github.com/fagcinsk/dotfiles)
+
 [![fagci's github stats](https://github-readme-stats.vercel.app/api?username=fagcinsk)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
