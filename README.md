@@ -17,9 +17,9 @@ My dotfiles: [fagcinsk/dotfiles](https://github.com/fagcinsk/dotfiles).
 
 ## My web tools
 
-[sitemapee](https://github.com/fagcinsk/sitemapee) — sitemap generator
-[parsee](https://github.com/fagcinsk/parsee) — simple multilevel site parser in one line
-[imageproxee](https://github.com/fagcinsk/imageproxee) — resize & convert image proxy w/caching
+[sitemapee](https://github.com/fagcinsk/sitemapee) — sitemap generator  
+[parsee](https://github.com/fagcinsk/parsee) — simple multilevel site parser in one line  
+[imageproxee](https://github.com/fagcinsk/imageproxee) — resize & convert image proxy w/caching  
 [webmap](https://github.com/fagcinsk/webmap) — find vulns, used frameworks&techs, contacts
 
 <!--
