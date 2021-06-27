@@ -15,6 +15,13 @@ My dotfiles: [fagcinsk/dotfiles](https://github.com/fagcinsk/dotfiles).
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fagcinsk&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+## My web tools
+
+[sitemapee](https://github.com/fagcinsk/sitemapee) — sitemap generator
+[parsee](https://github.com/fagcinsk/parsee) — simple multilevel site parser in one line
+[imageproxee](https://github.com/fagcinsk/imageproxee) — resize & convert image proxy w/caching
+[webmap](https://github.com/fagcinsk/webmap) — find vulns, used frameworks&techs, contacts
+
 <!--
 **fagcinsk/fagcinsk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
