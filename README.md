@@ -11,7 +11,7 @@ My personal site: [mikhail-yudin.ru](https://mikhail-yudin.ru).
 
 My dotfiles: [fagci/dotfiles](https://github.com/fagci/dotfiles).
 
-[![fagci's github stats](https://github-readme-stats.vercel.app/api?username=fagci&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+[![fagci's github stats](https://github-readme-stats.vercel.app/api?username=fagci&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fagci&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
