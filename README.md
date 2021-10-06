@@ -1,6 +1,6 @@
 # Hi!
 
-I am Mikhail Yudin, frontend web developer, Arch Linux and VIM user.  
+I am Mikhail Yudin ([mikhail-yudin.ru](https://mikhail-yudin.ru)), frontend web developer, Arch Linux and VIM user.  
 ![](https://img.shields.io/date/1375315200?label=My%20web%20dev%20career%20starts)
 
 As web developer I interested in JAM stack, high performance web applications and vue.js projects.  
@@ -10,9 +10,9 @@ Also, very like network / web application hacking, UX designing.
 
 ### Web tools
 
-[imageproxee](https://github.com/fagci/imageproxee) — resize & convert image proxy w/caching  
 [parsee](https://github.com/fagci/parsee) — simple multilevel site parser in one line  
-[sitemapee](https://github.com/fagci/sitemapee) — sitemap generator
+[sitemapee](https://github.com/fagci/sitemapee) — sitemap generator  
+[imageproxee](https://github.com/fagci/imageproxee) — resize & convert image proxy w/caching  
 
 ### Web app security tools
 
@@ -28,8 +28,6 @@ Also, very like network / web application hacking, UX designing.
 [yaml-expressions](https://github.com/fagci/yaml-expressions) — Jinja2 templates for yaml. Make dynamic rules and configs [![PyPI version](https://badge.fury.io/py/yaml-expressions.svg)](https://badge.fury.io/py/yaml-expressions)  
 
 ## Misc
-
-Personal site: [mikhail-yudin.ru](https://mikhail-yudin.ru).
 
 Dotfiles: [fagci/dotfiles](https://github.com/fagci/dotfiles).
 
