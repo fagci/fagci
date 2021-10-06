@@ -5,6 +5,7 @@ I am Mikhail Yudin ([mikhail-yudin.ru](https://mikhail-yudin.ru)), frontend web 
 
 As web developer I interested in JAM stack, high performance web applications and vue.js projects.  
 Also, very like network / web application hacking, UX designing.
+Trying to make things simple as possible.
 
 ## Top of my GitHub [source](https://github.com/fagci?tab=repositories&q=&type=source) repos
 
