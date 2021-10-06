@@ -19,5 +19,17 @@ My dotfiles: [fagci/dotfiles](https://github.com/fagci/dotfiles).
 
 [imageproxee](https://github.com/fagci/imageproxee) — resize & convert image proxy w/caching  
 [parsee](https://github.com/fagci/parsee) — simple multilevel site parser in one line  
-[sitemapee](https://github.com/fagci/sitemapee) — sitemap generator  
-[webmap](https://github.com/fagci/webmap) — find vulns, used frameworks&techs, contacts
+[sitemapee](https://github.com/fagci/sitemapee) — sitemap generator
+
+## My web app security tools
+
+[WebMap](https://github.com/fagci/webmap) — find vulns, used frameworks&techs, contacts  
+[WASec](https://github.com/fagci/wasec) — web app security checker, small brother of webmap  
+[GMF](https://github.com/fagci/gmf) — global misconfig finder (web)  
+[MisCong](https://github.com/fagci/miscong) — Nginx misconfig directory traversal tool over entire internet  
+[Fuzzy](https://github.com/fagci/fuzzy) — web fuzzing tool
+
+## My Python libraries
+
+[FaPy](https://github.com/fagci/fapy) — network hacking/stalking library [![PyPI version](https://badge.fury.io/py/fapy.svg)](https://badge.fury.io/py/fapy)  
+[yaml-expressions](https://github.com/fagci/yaml-expressions) — Jinja2 templates for yaml. Make dynamic rules and configs [![PyPI version](https://badge.fury.io/py/yaml-expressions.svg)](https://badge.fury.io/py/yaml-expressions)  
