@@ -7,8 +7,8 @@ As web developer I interested in JAM stack, high performance web applications an
 Also, very like network / web application hacking, UX designing.
 Trying to make things simple as possible.
 
-[![Repos Badge](https://badges.pufler.dev/repos/fagci)](https://badges.pufler.dev)
-[![Gists Badge](https://badges.pufler.dev/gists/fagci)](https://badges.pufler.dev)
+[![Repos Badge](https://badges.pufler.dev/repos/fagci)](https://github.com/fagci?tab=repositories&q=&type=source)
+[![Gists Badge](https://badges.pufler.dev/gists/fagci)](https://gist.github.com/fagci)
 [![Visits Badge](https://badges.pufler.dev/visits/fagci/fagci)](https://badges.pufler.dev)
 
 ## Top of my GitHub [source](https://github.com/fagci?tab=repositories&q=&type=source) repos
