@@ -7,6 +7,8 @@ As web developer I interested in JAM stack, high performance web applications an
 Also, very like network / web application hacking, UX designing.
 Trying to make things simple as possible.
 
+![visitors](https://visitor-badge.deta.dev/badge?page_id=fagci.fagci&left_color=grey&right_color=green)
+
 ## Top of my GitHub [source](https://github.com/fagci?tab=repositories&q=&type=source) repos
 
 ### Web tools
