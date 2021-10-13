@@ -7,6 +7,8 @@ As web developer I interested in JAM stack, high performance web applications an
 Also, very like network / web application hacking, UX designing.
 Trying to make things simple as possible.
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=fagci&theme=gruvbox&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+
 [![Repos Badge](https://badges.pufler.dev/repos/fagci)](https://github.com/fagci?tab=repositories&q=&type=source)
 [![Gists Badge](https://badges.pufler.dev/gists/fagci)](https://gist.github.com/fagci)
 [![Visits Badge](https://badges.pufler.dev/visits/fagci/fagci)](https://badges.pufler.dev)
