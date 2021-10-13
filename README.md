@@ -9,6 +9,8 @@ Trying to make things simple as possible.
 
 ![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=fagci.fagci&cache=on)
 
+[![Visits Badge](https://badges.pufler.dev/visits/fagci/fagci)](https://badges.pufler.dev)
+
 ## Top of my GitHub [source](https://github.com/fagci?tab=repositories&q=&type=source) repos
 
 ### Web tools
