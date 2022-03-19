@@ -9,8 +9,8 @@ Trying to make things simple as possible.
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=fagci&theme=gruvbox&no-frame=true&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Repos Badge](https://badges.pufler.dev/repos/fagci)](https://github.com/fagci?tab=repositories&q=&type=source)
-[![Gists Badge](https://badges.pufler.dev/gists/fagci)](https://gist.github.com/fagci)
+[![Repos Badge](https://badges.pufler.dev/repos/fagci?v=1)](https://github.com/fagci?tab=repositories&q=&type=source)
+[![Gists Badge](https://badges.pufler.dev/gists/fagci?v=1)](https://gist.github.com/fagci)
 [![Visits Badge](https://badges.pufler.dev/visits/fagci/fagci)](https://badges.pufler.dev)
 
 ## Top of my GitHub [source](https://github.com/fagci?tab=repositories&q=&type=source) repos
