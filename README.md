@@ -29,6 +29,10 @@ Trying to make things simple as possible.
 [MisCong](https://github.com/fagci/miscong) — Nginx misconfig directory traversal tool over entire internet  
 [Fuzzy](https://github.com/fagci/fuzzy) — web fuzzing tool
 
+### Netstalking tools
+
+[gons](https://github.com/fagci/gons) — netstalking things in go
+
 ### Python libraries
 
 [FaPy](https://github.com/fagci/fapy) — network hacking/stalking library [![PyPI version](https://badge.fury.io/py/fapy.svg)](https://badge.fury.io/py/fapy)  
