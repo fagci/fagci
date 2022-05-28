@@ -33,6 +33,10 @@ Trying to make things simple as possible.
 
 [gons](https://github.com/fagci/gons) — netstalking things in go
 
+### Go libraries
+
+[gonr](https://github.com/fagci/gonr) — netrandom utilities [![Go Reference](https://pkg.go.dev/badge/github.com/fagci/gonr.svg)](https://pkg.go.dev/github.com/fagci/gonr)
+
 ### Python libraries
 
 [FaPy](https://github.com/fagci/fapy) — network hacking/stalking library [![PyPI version](https://badge.fury.io/py/fapy.svg)](https://badge.fury.io/py/fapy)  
