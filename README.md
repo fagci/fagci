@@ -12,6 +12,7 @@ Trying to make things simple as possible.
 [![Repos Badge](https://badges.pufler.dev/repos/fagci)](https://github.com/fagci?tab=repositories&q=&type=source)
 [![Gists Badge](https://badges.pufler.dev/gists/fagci)](https://gist.github.com/fagci)
 [![Visits Badge](https://badges.pufler.dev/visits/fagci/fagci)](https://badges.pufler.dev)
+![](https://2no.co/1INiN.png)
 
 ## Top of my GitHub [source](https://github.com/fagci?tab=repositories&q=&type=source) repos
 
