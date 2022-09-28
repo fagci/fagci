@@ -50,4 +50,3 @@ Dotfiles: [fagci/dotfiles](https://github.com/fagci/dotfiles).
 [![fagci's github stats](https://github-readme-stats.vercel.app/api?username=fagci&show_icons=true&hide_title=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fagci&layout=compact&hide_title=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
-
