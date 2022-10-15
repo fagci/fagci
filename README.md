@@ -45,7 +45,7 @@ Trying to make things simple as possible.
 
 ### Ruby libraries
 
-[wan-ip-gen](https://github.com/fagci/wan-ip-gen.rb) — WAN range random IP generator  
+[wan-ip-gen](https://github.com/fagci/wan-ip-gen.rb) — WAN range random IP generator [![Gem](https://img.shields.io/gem/v/wan-ip-gen)](https://rubygems.org/gems/wan-ip-gen)  
 
 ## Misc
 
