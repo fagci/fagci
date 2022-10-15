@@ -43,6 +43,10 @@ Trying to make things simple as possible.
 [FaPy](https://github.com/fagci/fapy) — network hacking/stalking library [![PyPI version](https://badge.fury.io/py/fapy.svg)](https://badge.fury.io/py/fapy)  
 [yaml-expressions](https://github.com/fagci/yaml-expressions) — Jinja2 templates for yaml. Make dynamic rules and configs [![PyPI version](https://badge.fury.io/py/yaml-expressions.svg)](https://badge.fury.io/py/yaml-expressions)  
 
+### Ruby libraries
+
+[wan-ip-gen](https://github.com/fagci/wan-ip-gen.rb) — WAN range random IP generator  
+
 ## Misc
 
 Dotfiles: [fagci/dotfiles](https://github.com/fagci/dotfiles).
