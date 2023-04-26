@@ -9,6 +9,8 @@ Trying to make things simple as possible.
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=fagci&theme=gruvbox&no-frame=true&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
+![Visitor Count](https://profile-counter.glitch.me/fagci/count.svg)
+
 ## Top of my GitHub [source](https://github.com/fagci?tab=repositories&q=&type=source) repos
 
 ### Web tools
